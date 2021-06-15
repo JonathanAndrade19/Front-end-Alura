@@ -1,4 +1,4 @@
-#Notions 
+# Notions 
 
 - uma aplicação de cadastro de itens em forma de lista
 
